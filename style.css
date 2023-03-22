@@ -23,7 +23,7 @@ body {
   background: url('images/bg-desktop.svg') center center no-repeat;
   background-size: cover;
   background-color: var(--violet);
-  padding: 30px;
+  padding: 40px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-template-areas:
@@ -110,7 +110,7 @@ body {
 
 .footer {
   grid-area: footer;
-  height: 35vh;
+  height: 30vh;
   display: flex;
   justify-content: end;
 }
